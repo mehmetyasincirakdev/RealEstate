@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using RealEstateUI.Models;
+using RealEstate_Dapper_UI.Models;
 using System.Diagnostics;
 
-namespace RealEstateUI.Controllers
+namespace RealEstate_Dapper_UI.Controllers
 {
     public class HomeController : Controller
     {
